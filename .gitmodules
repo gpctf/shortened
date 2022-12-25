@@ -1,0 +1,3 @@
+[submodule "app_server/gui"]
+	path = app_server/gui
+	url = https://github.com/gpctf/shortened-gui.git
